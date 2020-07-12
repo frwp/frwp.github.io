@@ -15,3 +15,5 @@ Index pelatihan untuk navigasi
 	<li><a href="rfi.html">Remote File Inclusion (RFI)</a></li>
 	<li><a href="xss.html">Cross Site Scripting (XSS)</a></li>
 </ul>
+
+<img src="/assets/img/confusedwat.png"/>

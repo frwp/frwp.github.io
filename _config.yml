@@ -23,7 +23,7 @@ title: rianwardanaputra.github.io
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the playground. Please enjoy the ride
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "rianwardanaputra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  RianWardanaPutra
 
 # Build settings
@@ -31,6 +31,11 @@ theme: jekyll-theme-hacker
 # theme: minima
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+        path: "assets/img"
+    value: true  
 
 # Exclude from processing.
 # The following items will not be processed, by default.

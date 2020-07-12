@@ -11,6 +11,7 @@ layout: index
 	</head> 
 	<body>
 		<h1>Test this</h1>
+		<img src="assets/img/confusedwat.png"/>
 	</body>
 </html>
 
