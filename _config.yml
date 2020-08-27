@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 email: f.rianwardanaputra@gmail.com
-title: rianwardanaputra.github.io
+title: rwp.
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the playground. Please enjoy the ride
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -32,10 +32,10 @@ theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
-defaults:
-  - scope:
-        path: "assets/img"
-    value: true  
+# defaults:
+#   - scope:
+#         path: "assets/img"
+#     value: true  
 
 # Exclude from processing.
 # The following items will not be processed, by default.

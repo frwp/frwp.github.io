@@ -10,8 +10,11 @@ layout: index
 		<title>{{ page.title }}</title>
 	</head> 
 	<body>
-		<h1>Test this</h1>
-		<img src="assets/img/confusedwat.png"/>
+		<h1>Hello World!</h1>
+		<p>
+		Welcome aboard. I'm Rian, a regular CS student. I just want to live a peaceful life.
+		</p>
+		<!--<img src="assets/img/confusedwat.png"/>-->
 	</body>
 </html>
 
