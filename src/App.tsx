@@ -8,7 +8,7 @@ function App() {
                     <p>Hello I'm Rian. I'm curious about web technologies.</p>
                     <p>
                         I'm from{' '}
-                        <a href='/#' target='_blank' className='magelang-text'>
+                        <a href='https://www.google.com/maps/place/Kabupaten+Magelang,+Jawa+Tengah/@-7.5424081,110.1623278,11z' target='_blank' rel="noreferrer" className='magelang-text'>
                             Magelang, Indonesia.
                         </a>
                     </p>
