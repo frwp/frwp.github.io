@@ -28,7 +28,7 @@ function App() {
                             />
                         </a>
                         <a
-                            href='https://github.com/rianwardanaputra'
+                            href='https://github.com/frwp'
                             target='_blank'
                             rel='noreferrer'
                             className='logo'
